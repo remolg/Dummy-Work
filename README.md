@@ -8,6 +8,4 @@ Bu çalışmada takım arkadaşımla birlikte branchlerimizde çalışarak HTML 
 - Kullanıcılara kategorilere göre ürün filtreleme olanağı sunar (checkbox kullanılarak).
 
 ## Görev Aldığım Alanlar
-- Header, shopSomeWear, shoppingWithoutLimits Bölümleri (HTML ve CSS)
-- JavaScript tarafında getAndListProducts() fonksiyonu
-# Dummy-Work
+- Privileges, Footer Bölümleri (HTML ve CSS)
